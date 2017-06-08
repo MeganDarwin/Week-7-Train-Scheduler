@@ -1,0 +1,45 @@
+.jumbotron {
+	  background: url("../images/train4.jpg");
+	  background-position: 60% 75%;
+	  background-size: 100%;
+	  font-weight: bold;
+	  /*color: #7A9292;*/
+	  color: white;
+	  font-weight: bold;
+	  overflow: hidden;
+	  font-size: 50px;
+}
+
+h1 {
+	float: right;
+	text-align: right;
+	font-weight: bold;
+	margin-top: 50px;
+	margin-bottom: 0px;
+
+}
+
+th {
+	padding: 10px;
+	text-align: left;
+	margin-left: 5px;
+
+}
+
+/*body {
+	
+
+}*/
+
+#add-train{
+
+}
+
+#main {
+	margin-left: 20px;
+	padding: 0px;
+}
+
+#table {
+
+}
